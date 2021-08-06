@@ -58,6 +58,9 @@ body{
     margin: 0 auto;
     padding: 50px 50px;
     width: 50%;
-background-color: rgb(255, 225, 94);
+background-color: rgb(255, 243, 188);
 border-radius: 20px;
+}
+.dow_game p{
+    color: black;
 }
